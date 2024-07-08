@@ -1,32 +1,26 @@
 {
-    "supportedLanguages": [
-        {
-            "name": "English",
-            "id": "en",
-            "flagUrl": "images/flags/en.png",
-            "default": true
-        },
+  "supportedLanguages": [
+    {
+      "name": "English",
+      "id": "en",
+      "flagUrl": "images/flags/en.png",
+      "default": true
+    },
 
-        {
-            "name": "Español",
-            "id": "es",
-            "flagUrl": "images/flags/es.png"
-        },
+    {
+      "name": "Português",
+      "id": "pt",
+      "flagUrl": "images/flags/pt.png"
+    }
+  ],
 
-        {
-            "name": "Français",
-            "id": "fr",
-            "flagUrl": "images/flags/fr.png"
-        },
+  "preloaderEnabled": true,
+  "contactFormEnabled": true,
+  "sidebarShrinkingEnabled": true,
 
-        {
-            "name": "中文",
-            "id": "zh",
-            "flagUrl": "images/flags/zh.png"
-        }
-    ],
-
-    "preloaderEnabled": true,
-    "contactFormEnabled": true,
-    "sidebarShrinkingEnabled": true
+  "Spanish can be added in the future": {
+    "name": "Español",
+    "id": "es",
+    "flagUrl": "images/flags/es.png"
+  }
 }
